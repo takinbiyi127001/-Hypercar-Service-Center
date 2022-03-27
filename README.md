@@ -1,1 +1,2 @@
 # -Hypercar-Service-Center
+Hypercar Ltd is a little-known car manufacturer. Last year was very successful for the company: they doubled their profit and managed to sell about ten thousand cars! Every Hypercar vehicle needs to be fixed or serviced at some point, so the company has opened several service centers. After opening the centers, managers soon noticed that their operating procedures needed to be optimized to improve customer experience. To do this, they want a web application that can handle queue management, and they would like you to implement the system.
